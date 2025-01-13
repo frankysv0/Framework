@@ -1,0 +1,6 @@
+com\resourcePOC\Payload.class
+com\resourcePOC\Utilis.class
+com\stepDefPOC\A.class
+com\testRunnerPOC\RunnerPOC.class
+com\stepDefPOC\StepDefinitionPOC.class
+com\resourcePOC\ReUsableMethods.class
